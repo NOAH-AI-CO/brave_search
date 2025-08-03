@@ -88,5 +88,6 @@ $boost=3,site=aafp.org
 $boost=3,site=fiercepharma.com
 $boost=3,site=biospace.com
 $boost=3,site=fiercebiotech.com
-/articles^$boost=3,site=jhoonline.biomedcentral.com
-/articles^$boost=3,site=nature.com
+
+/articles^$boost=1,site=jhoonline.biomedcentral.com
+/articles^$boost=1,site=nature.com
